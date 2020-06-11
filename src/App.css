@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+.pixi-stage {
+  display: block;
+  margin: 100px auto;
+}
